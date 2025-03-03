@@ -1,4 +1,4 @@
-# in terminal vid player in unicode braille
+# terminal vid player rendered w/ unicode braille
 
 ###### i love unicode braille
 
